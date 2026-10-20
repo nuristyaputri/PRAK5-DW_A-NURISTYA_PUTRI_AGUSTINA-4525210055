@@ -1,5 +1,5 @@
 # Sweet Bites — Website Toko Kue 🍰
-
+NURISTYA PUTRI AGUSTINA-4525210055
 ## 1. Deskripsi Proyek
 
 Sweet Bites adalah website toko kue sederhana yang dirancang untuk menampilkan pilihan kue, harga produk, informasi tentang toko, dan kontak pemesanan. Website menggunakan desain minimalis dengan warna pastel pink untuk memberikan kesan manis, lembut, dan elegan.
